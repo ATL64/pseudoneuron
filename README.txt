@@ -1,5 +1,10 @@
+PseudoNeuron is a website that ranks pseudosciences.  We use a score that basically measures how “dumb yet interesting” the pseudoscience is.
+We proposed a new pseudoscience called “hydropathic water”, which is basically magical water that enhances your critical thinking.  Project is currently abandoned, but it was a nice exploration of the concept of epistemological spam.
 
-TITLE: 
+Available here: www.pseudoneuron.com
+
+
+Template:
 Cube - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
